@@ -16,7 +16,7 @@ below are the features:
 
 below are the screenshots of the app
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
 
 to run the application follow below process.
 
